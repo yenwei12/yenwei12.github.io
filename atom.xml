@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yenwei12.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-28T13:43:28.623Z</updated>
+    <updated>2020-05-28T13:53:57.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yenwei12.github.io"/>
     <link rel="self" href="https://yenwei12.github.io/atom.xml"/>
@@ -11,7 +11,14 @@
     <icon>https://yenwei12.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Developer Diary for 001-A-XX1]]></title>
+        <title type="html"><![CDATA[今日摘录 - 01]]></title>
+        <id>https://yenwei12.github.io/jin-ri-zhai-lu-01/</id>
+        <link href="https://yenwei12.github.io/jin-ri-zhai-lu-01/">
+        </link>
+        <updated>2020-05-28T13:44:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Diary for 001-A-XX1 📖]]></title>
         <id>https://yenwei12.github.io/developer-diary-for-001-a-xx1/</id>
         <link href="https://yenwei12.github.io/developer-diary-for-001-a-xx1/">
         </link>
